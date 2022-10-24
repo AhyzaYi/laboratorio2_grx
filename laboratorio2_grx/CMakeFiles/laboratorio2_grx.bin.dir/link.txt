@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/laboratorio2_grx.bin.dir/src/main.c.o CMakeFiles/laboratorio2_grx.bin.dir/src/files_ops1.c.o CMakeFiles/laboratorio2_grx.bin.dir/src/funciones_grx.c.o -o bin/laboratorio2_grx.bin 

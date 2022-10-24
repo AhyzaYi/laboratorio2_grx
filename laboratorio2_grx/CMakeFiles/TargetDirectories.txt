@@ -1,0 +1,3 @@
+/home/alse/laboratorio2_grx/CMakeFiles/laboratorio2_grx.bin.dir
+/home/alse/laboratorio2_grx/CMakeFiles/edit_cache.dir
+/home/alse/laboratorio2_grx/CMakeFiles/rebuild_cache.dir
